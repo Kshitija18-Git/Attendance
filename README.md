@@ -1,3 +1,26 @@
-# Attendance
+#  Random Attendance Management System
 
-The Student Attendance Management System is a web-based tool designed to automate attendance tracking for students through real-time data entry, report generation, and secure data storage. It features session-based attendance monitoring, dynamic reporting available in CSV format, and a secure login/logout process to enhance administrative efficiency and minimize errors.
+An Attendance Management System that allows institutions or organizations to mark and manage attendance randomly or manually in a digital format. This project helps streamline attendance tracking and can be customized for use in classrooms, offices, events, or any group-based setting.
+
+## 📌 Features
+
+- ✅ Mark random attendance for a given list of students/employees
+- 📋 Manual attendance marking option
+- 🧮 Attendance statistics and reports
+- 🗃️ Persistent data storage (via file/database)
+- 🔐 Admin login & basic authentication
+- 🖥️ Simple and user-friendly interface (CLI/GUI/Web, based on your version)
+
+## 💻 Technologies Used
+
+- **Frontend**: HTML / CSS / JavaScript
+- **Backend**: Python / PHP / Java 
+- **Database**: MySQL / SQLite / MongoDB / File Storage
+- **Tools**: VS Code, XAMPP
+
+## 🚀 How to Run
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/yourusername/random-attendance-management.git
+   cd random-attendance-management
